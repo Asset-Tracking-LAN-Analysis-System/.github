@@ -2,10 +2,7 @@
   <img src="https://github.com/Asset-Tracking-LAN-Analysis-System/.github/blob/main/assets/icon.png?raw=true" alt="Logo" width=200px />
 </p>
 
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Veicm/ATLAS)
-[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/Veicm/ATLAS?style=flat&link=https%3A%2F%2Fgithub.com%2FVeicm%2FATLAS%2Fissues)](https://github.com/Veicm/ATLAS/issues)
-[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/Veicm/ATLAS?style=flat&color=%230000ff&link=https%3A%2F%2Fgithub.com%2FVeicm%2FATLAS%2Fpulls)](https://github.com/Veicm/ATLAS/pulls)
-[![GitHub License](https://img.shields.io/github/license/Veicm/ATLAS?style=flat&color=%237f3403)](https://github.com/Veicm/ATLAS?tab=Apache-2.0-1-ov-file#readme)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Asset-Tracking-LAN-Analysis-System)
 
 # ATLAS – Asset Tracking & LAN Analysis System
 
@@ -26,4 +23,3 @@ numeric codes directly from a mobile device, enabling fast and practical invento
 
 ATLAS aims to provide a simple but powerful system for keeping track of devices, equipment,
 and network structure in one place.
-
