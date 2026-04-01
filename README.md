@@ -1,3 +1,3 @@
 # .github
 
-This is an overview for managing purposes.
+An overview for ATLAS (Asset Tracking & LAN Analysis System)
