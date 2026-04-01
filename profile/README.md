@@ -3,6 +3,7 @@
 </p>
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Asset-Tracking-LAN-Analysis-System)
+[![GitHub Release](https://img.shields.io/github/v/release/Asset-Tracking-LAN-Analysis-System/.github?display_name=tag&style=flat&label=GitHub%20Release&color=%233e85e0)](https://github.com/Asset-Tracking-LAN-Analysis-System/.github/releases/latest)
 
 # ATLAS – Asset Tracking & LAN Analysis System
 
